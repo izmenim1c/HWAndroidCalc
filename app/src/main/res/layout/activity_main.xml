@@ -28,7 +28,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="2dp"
-        android:text="9"
+        android:text="@string/_9"
         app:layout_constraintStart_toEndOf="@+id/button8"
         app:layout_constraintTop_toBottomOf="@+id/button6" />
 
@@ -37,7 +37,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
-        android:text="8"
+        android:text="@string/_8"
         app:layout_constraintStart_toEndOf="@+id/button7"
         app:layout_constraintTop_toBottomOf="@+id/button5" />
 
