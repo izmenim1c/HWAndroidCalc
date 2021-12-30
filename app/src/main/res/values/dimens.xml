@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="left_space">85dp</dimen>
+    <dimen name="top_space">185dp</dimen>
 </resources>
